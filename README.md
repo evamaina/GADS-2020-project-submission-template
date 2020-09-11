@@ -70,3 +70,5 @@
 ## Translation code
 
 1. [Getting Started with Compute Engine Translation into code](https://github.com/evamaina/GADS-2020-project-submission-template/blob/master/translations/getting%20Started%20with%20Compute%20Engine.md)
+
+2. [Getting Started with Cloud Storage and Cloud SQL translation into code](https://github.com/evamaina/GADS-2020-project-submission-template/blob/master/translations/gettingStartedwithCloudStorageandCloudSQL.md)
