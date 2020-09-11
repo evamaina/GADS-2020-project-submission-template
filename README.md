@@ -64,7 +64,9 @@
 
 <details>
   <summary>Lab 13:  Infrastructure Preview</summary>
-  <img src="screenshots/lab_13gi.png">
+  <img src="screenshots/lab_13.png">
 </details>
 
 ## Translation code
+
+1. [Getting Started with Compute Engine Translation into code](https://github.com/evamaina/GADS-2020-project-submission-template/blob/master/translations/getting%20Started%20with%20Compute%20Engine.md)
